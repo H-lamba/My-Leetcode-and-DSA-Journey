@@ -24,6 +24,7 @@
 | [0877-stone-game](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/1406-stone-game-iii) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
+| [3731-find-missing-elements](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/3731-find-missing-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -35,10 +36,12 @@
 |  |
 | ------- |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3731-find-missing-elements](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
 | ------- |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3731-find-missing-elements](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/3731-find-missing-elements) |
 ## Counting
 |  |
 | ------- |
