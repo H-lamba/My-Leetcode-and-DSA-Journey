@@ -25,6 +25,7 @@
 | [0877-stone-game](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/1406-stone-game-iii) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/3731-find-missing-elements) |
 ## Dynamic Programming
@@ -37,6 +38,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/3731-find-missing-elements) |
@@ -64,4 +66,8 @@
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/3345-smallest-divisible-digit-product-i) |
+## Sliding Window
+|  |
+| ------- |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 <!---LeetCode Topics End-->
