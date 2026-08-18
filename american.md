@@ -211,7 +211,7 @@ The meal is free for u, u r a lucky customer
 
 
 
-```text
+```cpp
 #include <iostream>
 #include <vector>
 #include <algorithm>
