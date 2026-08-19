@@ -343,3 +343,144 @@ int main()
 }
 
 ```
+
+
+
+# Maximum Points in a Rectangle 🧲
+
+## 📌 Problem Statement
+
+Given `N` points on a 2D plane and a maximum allowed perimeter `P`, find the **maximum number of points** that can be completely enclosed by an axis-aligned rectangle whose perimeter is $\le P$.
+
+* **Constraint Rule:** The perimeter of a rectangle is `2 * (Width + Height)`. Therefore, our working budget is $Width + Height \le P / 2$. Let $K = P / 2$.
+
+---
+
+## 🚀 Intuition & Approach
+
+Solving this blindly in 2D space is too slow. Instead, we use a **Sweep Line + 1D Sliding Window** technique to let the points themselves dictate the boundaries of the rectangle, drastically reducing the search space.
+
+### The 3-Step "Elevator" Algorithm
+
+1. **Sort & Sweep (X-Axis):**
+* Sort all points by their X-coordinate.
+* Lock a `left` point and stretch a `right` point to define the rectangle's Width ($W$).
+* *Early Exit:* If $W > K$, the rectangle is too wide. Break the loop immediately.
+
+
+2. **1D Reduction (Y-Axis):**
+* If $W$ is valid, our maximum allowed Height is $H = K - W$.
+* Collect the Y-coordinates of all active points between the `left` and `right` boundaries. Keep this list sorted dynamically using binary search (`lower_bound`) for speed.
+
+
+3. **The Sliding Window ("The Elevator"):**
+* Treat the active Y-coordinates like a vertical ruler.
+* Slide a window (representing our allowed Height $H$) from bottom to top.
+* Expand the `top` of the window. If the distance between `top` and `bottom` exceeds $H$, shrink the window by moving `bottom` up.
+* Count the points inside the valid window and update the global maximum.
+
+
+
+---
+
+## 💻 Code Structure
+
+```cpp
+// 1. The 1D Sliding Window (O(N))
+int getMaxInElevator(const vector<int>& y_coords, int max_height);
+
+// 2. The 2D Sweep Line Router 
+int maxPointsInRectangle(vector<vector<int>>& points, int p);
+
+```
+
+*(Include your main `cpp` file in the repository alongside this README).*
+
+---
+
+## ⏱️ Complexity Analysis
+
+* **Time Complexity:**
+* $O(N \log N)$ to sort by X-coordinate.
+* $O(N^2)$ pairs of Left/Right boundaries.
+* For each right boundary expansion, inserting the Y-coordinate and running the window is highly optimized, leading to a practical runtime well within limits for standard OA constraints ($N \le 1000$).
+
+
+* **Space Complexity:** $O(N)$ to store the active Y-coordinates inside the sweeping boundaries.
+
+---
+
+## 🧪 Quick Test Cases
+
+| Points | Perimeter (P) | Expected Output | Notes |
+| --- | --- | --- | --- |
+| `[[1,1], [1,3], [3,1], [3,3], [2,2], [5,5]]` | 8 | 5 | Covers the main 3x3 grid cluster. |
+| `[[0,0], [0,1], [0,2], [0,3], [0,4]]` | 8 | 5 | Vertical straight line. |
+| `[[1,0], [3,0], [5,0], [7,0], [2,10]]` | 12 | 4 | Wide horizontal rectangle. |
+
+
+``` cpp
+#include <iostream>
+using namespace std;
+#include<vector>
+int fun2(vector<int> y, int allow)
+{
+    int max_points = 0;
+    int bottom = 0;
+    for(int top = 0; top<y.size(); top++)
+    {
+        while(y[top]-y[bottom]>allow)
+        bottom++;
+        int curr_points = top-bottom+1;
+        max_points = max(max_points, curr_points);
+    }
+    return max_points;
+}
+int fun(vector<vector<int>> & v, int k)
+{
+    int n = v.size();
+    if(n ==0 ) return 0;
+    int global_max= 0;
+    sort(v.begin(), v.end(),[](vector<int> a, vector<int>b){
+        return a[0]<b[0];
+    });
+    for(int left = 0; left<n; left++)
+    {
+        vector<int> active_y_corrds;
+        for(int right = left; right<n; right++)
+        {
+            int curr = v[right][0]- v[left][0];
+            if(curr>k)
+            {
+                break;
+            }
+            int allow = k-curr;
+            int new_y = v[right][1];
+            auto it = lower_bound(active_y_corrds.begin(), active_y_corrds.end(), new_y);
+            active_y_corrds.insert(it, new_y);
+            int curr_max = fun2(active_y_corrds, allow);
+            global_max = max(global_max, curr_max);
+        }
+    }
+    return global_max;
+}
+int main()
+{
+    int n;
+    cin>>n;
+    vector<vector<int>> v;
+    for(int i = 0; i<n; i++)
+    {
+        int x;
+        int y;
+        cin>>x>>y;
+        v.push_back({x,y});
+    }
+    int p;
+    cin>>p;
+
+    int ans = fun(v, p/2);
+    cout<<ans;
+    return 0;
+}
+```
