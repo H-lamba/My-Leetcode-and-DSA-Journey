@@ -28,6 +28,7 @@
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3731-find-missing-elements](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/3731-find-missing-elements) |
 ## Dynamic Programming
 |  |
@@ -42,6 +43,7 @@
 | [0480-sliding-window-median](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/0480-sliding-window-median) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/3731-find-missing-elements) |
 ## Sorting
@@ -73,10 +75,12 @@
 | ------- |
 | [0480-sliding-window-median](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/0480-sliding-window-median) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0480-sliding-window-median](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/0480-sliding-window-median) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 ## Treap
 |  |
 | ------- |
