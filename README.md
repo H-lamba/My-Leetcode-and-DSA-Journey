@@ -6,17 +6,20 @@
 | [0486-predict-the-winner](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/1406-stone-game-iii) |
+| [1927-sum-game](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/1927-sum-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/3345-smallest-divisible-digit-product-i) |
 ## String
 |  |
 | ------- |
+| [1927-sum-game](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/1927-sum-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Greedy
 |  |
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/1386-cinema-seat-allocation) |
+| [1927-sum-game](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/1927-sum-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Array
@@ -71,6 +74,7 @@
 | [0486-predict-the-winner](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/1406-stone-game-iii) |
+| [1927-sum-game](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/1927-sum-game) |
 ## Enumeration
 |  |
 | ------- |
