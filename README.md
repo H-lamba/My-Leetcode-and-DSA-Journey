@@ -111,4 +111,20 @@
 |  |
 | ------- |
 | [2850-minimum-moves-to-spread-stones-over-grid](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/2850-minimum-moves-to-spread-stones-over-grid) |
+## Tree
+|  |
+| ------- |
+| [0623-add-one-row-to-tree](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/0623-add-one-row-to-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0623-add-one-row-to-tree](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/0623-add-one-row-to-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0623-add-one-row-to-tree](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/0623-add-one-row-to-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0623-add-one-row-to-tree](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/0623-add-one-row-to-tree) |
 <!---LeetCode Topics End-->
