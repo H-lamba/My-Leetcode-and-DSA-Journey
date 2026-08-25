@@ -25,6 +25,7 @@
 ## Array
 |  |
 | ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0480-sliding-window-median](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/0480-sliding-window-median) |
 | [0486-predict-the-winner](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/0877-stone-game) |
@@ -40,6 +41,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0486-predict-the-winner](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/1406-stone-game-iii) |
@@ -108,6 +110,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [2850-minimum-moves-to-spread-stones-over-grid](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/2850-minimum-moves-to-spread-stones-over-grid) |
 ## Bitmask
 |  |
@@ -120,13 +123,31 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0623-add-one-row-to-tree](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/0623-add-one-row-to-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0623-add-one-row-to-tree](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/0623-add-one-row-to-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0623-add-one-row-to-tree](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/0623-add-one-row-to-tree) |
+## Graph Theory
+|  |
+| ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Topological Sort
+|  |
+| ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Memoization
+|  |
+| ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/0329-longest-increasing-path-in-a-matrix) |
 <!---LeetCode Topics End-->
