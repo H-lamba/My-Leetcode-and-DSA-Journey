@@ -29,6 +29,7 @@
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0480-sliding-window-median](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/0480-sliding-window-median) |
 | [0486-predict-the-winner](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/0486-predict-the-winner) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0877-stone-game](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/0877-stone-game) |
 | [1386-cinema-seat-allocation](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/1406-stone-game-iii) |
@@ -53,6 +54,7 @@
 |  |
 | ------- |
 | [0480-sliding-window-median](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/0480-sliding-window-median) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/1386-cinema-seat-allocation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -63,6 +65,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0532-k-diff-pairs-in-an-array](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/0532-k-diff-pairs-in-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/3731-find-missing-elements) |
@@ -152,4 +155,12 @@
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Two Pointers
+|  |
+| ------- |
+| [0532-k-diff-pairs-in-an-array](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/0532-k-diff-pairs-in-an-array) |
+## Binary Search
+|  |
+| ------- |
+| [0532-k-diff-pairs-in-an-array](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/0532-k-diff-pairs-in-an-array) |
 <!---LeetCode Topics End-->
