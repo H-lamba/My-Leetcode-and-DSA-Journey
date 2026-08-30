@@ -20,6 +20,7 @@
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/1386-cinema-seat-allocation) |
 | [1927-sum-game](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/1927-sum-game) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Array
@@ -31,6 +32,7 @@
 | [0877-stone-game](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/0877-stone-game) |
 | [1386-cinema-seat-allocation](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/1406-stone-game-iii) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2850-minimum-moves-to-spread-stones-over-grid](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/2850-minimum-moves-to-spread-stones-over-grid) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
