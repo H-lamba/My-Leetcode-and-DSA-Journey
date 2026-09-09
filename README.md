@@ -9,6 +9,7 @@
 | [1927-sum-game](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/1927-sum-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3871-count-commas-in-range-ii](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/3871-count-commas-in-range-ii) |
 ## String
 |  |
 | ------- |
