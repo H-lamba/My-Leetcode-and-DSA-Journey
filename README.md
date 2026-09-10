@@ -129,11 +129,13 @@
 |  |
 | ------- |
 | [0623-add-one-row-to-tree](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/0623-add-one-row-to-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0623-add-one-row-to-tree](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/0623-add-one-row-to-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -144,6 +146,7 @@
 |  |
 | ------- |
 | [0623-add-one-row-to-tree](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/0623-add-one-row-to-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Graph Theory
 |  |
 | ------- |
