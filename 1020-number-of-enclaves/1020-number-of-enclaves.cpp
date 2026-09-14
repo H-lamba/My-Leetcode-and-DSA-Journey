@@ -1,7 +1,7 @@
 class Solution {
 public:
     int numEnclaves(vector<vector<int>>& grid) {
-        queue<vector<int>> q;
+        queue<pair<int, int>> q;
         int n = grid.size();
         int m = grid[0].size();
         for(int i = 0; i<m; i++)
@@ -30,12 +30,12 @@ public:
                 grid[i][m-1] = 0;
             }
         }
-        vector<int> dx = {-1,1,0,0};
-        vector<int> dy = {0,0,-1,1};
+        int dx [] = {-1,1,0,0};
+        int dy [] = {0,0,-1,1};
         while(!q.empty())
         {
-            int x = q.front()[0];
-            int y = q.front()[1];
+            int x = q.front().first;
+            int y = q.front().second;
             q.pop();
             for(int i = 0; i<4; i++)
             {
