@@ -34,6 +34,7 @@
 | [0532-k-diff-pairs-in-an-array](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0542-01-matrix](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/0542-01-matrix) |
 | [0877-stone-game](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/0877-stone-game) |
+| [1020-number-of-enclaves](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/1020-number-of-enclaves) |
 | [1386-cinema-seat-allocation](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/1406-stone-game-iii) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -122,6 +123,7 @@
 | [0130-surrounded-regions](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/0130-surrounded-regions) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0542-01-matrix](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/0542-01-matrix) |
+| [1020-number-of-enclaves](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/1020-number-of-enclaves) |
 | [2850-minimum-moves-to-spread-stones-over-grid](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/2850-minimum-moves-to-spread-stones-over-grid) |
 ## Bitmask
 |  |
@@ -138,6 +140,7 @@
 | [0130-surrounded-regions](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/0130-surrounded-regions) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0623-add-one-row-to-tree](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/0623-add-one-row-to-tree) |
+| [1020-number-of-enclaves](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/1020-number-of-enclaves) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
 |  |
@@ -146,6 +149,7 @@
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0542-01-matrix](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/0542-01-matrix) |
 | [0623-add-one-row-to-tree](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/0623-add-one-row-to-tree) |
+| [1020-number-of-enclaves](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/1020-number-of-enclaves) |
 ## Binary Tree
 |  |
 | ------- |
@@ -183,4 +187,5 @@
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/0130-surrounded-regions) |
+| [1020-number-of-enclaves](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/1020-number-of-enclaves) |
 <!---LeetCode Topics End-->
