@@ -27,6 +27,7 @@
 ## Array
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/0130-surrounded-regions) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0480-sliding-window-median](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/0480-sliding-window-median) |
 | [0486-predict-the-winner](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/0486-predict-the-winner) |
@@ -118,6 +119,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/0130-surrounded-regions) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0542-01-matrix](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/0542-01-matrix) |
 | [2850-minimum-moves-to-spread-stones-over-grid](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/2850-minimum-moves-to-spread-stones-over-grid) |
@@ -133,12 +135,14 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/0130-surrounded-regions) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0623-add-one-row-to-tree](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/0623-add-one-row-to-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/0130-surrounded-regions) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0542-01-matrix](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/0542-01-matrix) |
 | [0623-add-one-row-to-tree](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/0623-add-one-row-to-tree) |
@@ -175,4 +179,8 @@
 |  |
 | ------- |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+## Union-Find
+|  |
+| ------- |
+| [0130-surrounded-regions](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/0130-surrounded-regions) |
 <!---LeetCode Topics End-->
