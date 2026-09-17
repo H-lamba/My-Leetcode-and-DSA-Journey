@@ -14,6 +14,7 @@
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/0006-zigzag-conversion) |
+| [0387-first-unique-character-in-a-string](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/0387-first-unique-character-in-a-string) |
 | [1927-sum-game](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/1927-sum-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -59,6 +60,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/0387-first-unique-character-in-a-string) |
 | [0480-sliding-window-median](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/0480-sliding-window-median) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/1386-cinema-seat-allocation) |
@@ -78,6 +80,7 @@
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/0387-first-unique-character-in-a-string) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Recursion
 |  |
@@ -189,4 +192,8 @@
 | ------- |
 | [0130-surrounded-regions](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/0130-surrounded-regions) |
 | [1020-number-of-enclaves](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/1020-number-of-enclaves) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
