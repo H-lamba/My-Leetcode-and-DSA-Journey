@@ -30,6 +30,7 @@
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/0130-surrounded-regions) |
+| [0238-product-of-array-except-self](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/0238-product-of-array-except-self) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0480-sliding-window-median](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/0480-sliding-window-median) |
 | [0486-predict-the-winner](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/0486-predict-the-winner) |
@@ -196,4 +197,8 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/0387-first-unique-character-in-a-string) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
