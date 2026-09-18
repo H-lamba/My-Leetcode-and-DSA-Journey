@@ -1,10 +1,13 @@
 class Solution {
 public:
-    bool search(vector<vector<char>> & board, string word , int i, int j, string target)
+    bool search(vector<vector<char>> & board, string & word , int i, int j, string target)
     {
         target+=board[i][j];
-        if(target.size()== word.size()) return target == word;
-        if(target.size()>word.size()) return false;
+        for(int k = 0; k<target.size(); k++)
+        {
+            if(target[k]!= word[k]) return false;
+        }
+        if(target.size()== word.size()) return true;
         bool ans = false;
         char c = board[i][j];
         board[i][j] = '.';
