@@ -14,6 +14,7 @@
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/0006-zigzag-conversion) |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/0079-word-search) |
 | [0387-first-unique-character-in-a-string](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/0387-first-unique-character-in-a-string) |
@@ -65,6 +66,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/0387-first-unique-character-in-a-string) |
 | [0480-sliding-window-median](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/0480-sliding-window-median) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -125,6 +127,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/0079-word-search) |
 | [2850-minimum-moves-to-spread-stones-over-grid](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/2850-minimum-moves-to-spread-stones-over-grid) |
