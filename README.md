@@ -36,6 +36,7 @@
 | [0079-word-search](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/0130-surrounded-regions) |
 | [0238-product-of-array-except-self](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/0238-product-of-array-except-self) |
+| [0240-search-a-2d-matrix-ii](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/0240-search-a-2d-matrix-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0480-sliding-window-median](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/0480-sliding-window-median) |
 | [0486-predict-the-winner](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/0486-predict-the-winner) |
@@ -139,6 +140,7 @@
 | ------- |
 | [0079-word-search](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/0130-surrounded-regions) |
+| [0240-search-a-2d-matrix-ii](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/0240-search-a-2d-matrix-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0498-diagonal-traverse](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/0498-diagonal-traverse) |
 | [0542-01-matrix](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/0542-01-matrix) |
@@ -198,6 +200,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/0240-search-a-2d-matrix-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/0532-k-diff-pairs-in-an-array) |
 ## Linked List
 |  |
@@ -224,4 +227,8 @@
 |  |
 | ------- |
 | [0498-diagonal-traverse](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/0498-diagonal-traverse) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->
