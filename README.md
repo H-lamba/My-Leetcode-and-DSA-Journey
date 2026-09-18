@@ -32,6 +32,7 @@
 ## Array
 |  |
 | ------- |
+| [0046-permutations](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/0046-permutations) |
 | [0079-word-search](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/0130-surrounded-regions) |
 | [0238-product-of-array-except-self](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/0238-product-of-array-except-self) |
@@ -129,6 +130,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/0022-generate-parentheses) |
+| [0046-permutations](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/0046-permutations) |
 | [0079-word-search](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/0079-word-search) |
 | [2850-minimum-moves-to-spread-stones-over-grid](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/2850-minimum-moves-to-spread-stones-over-grid) |
 ## Matrix
