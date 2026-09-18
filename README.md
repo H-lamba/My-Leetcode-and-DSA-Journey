@@ -14,6 +14,7 @@
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/0006-zigzag-conversion) |
+| [0022-generate-parentheses](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/0022-generate-parentheses) |
 | [0387-first-unique-character-in-a-string](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/0387-first-unique-character-in-a-string) |
 | [1927-sum-game](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/1927-sum-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -51,6 +52,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/0022-generate-parentheses) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0486-predict-the-winner](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/0486-predict-the-winner) |
 | [0542-01-matrix](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/0542-01-matrix) |
@@ -121,6 +123,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/0022-generate-parentheses) |
 | [2850-minimum-moves-to-spread-stones-over-grid](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/2850-minimum-moves-to-spread-stones-over-grid) |
 ## Matrix
 |  |
@@ -201,4 +204,8 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/0238-product-of-array-except-self) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
