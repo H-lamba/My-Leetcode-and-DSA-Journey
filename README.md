@@ -18,6 +18,7 @@
 | [0022-generate-parentheses](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/0079-word-search) |
 | [0387-first-unique-character-in-a-string](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/0387-first-unique-character-in-a-string) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/1927-sum-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -47,6 +48,7 @@
 | [1020-number-of-enclaves](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/1020-number-of-enclaves) |
 | [1386-cinema-seat-allocation](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/1406-stone-game-iii) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2850-minimum-moves-to-spread-stones-over-grid](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/2850-minimum-moves-to-spread-stones-over-grid) |
@@ -74,6 +76,7 @@
 | [0480-sliding-window-median](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/0480-sliding-window-median) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/1386-cinema-seat-allocation) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
