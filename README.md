@@ -55,6 +55,7 @@
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3429-paint-house-iv](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/3429-paint-house-iv) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/3731-find-missing-elements) |
 ## Dynamic Programming
@@ -68,6 +69,7 @@
 | [1406-stone-game-iii](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/1406-stone-game-iii) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2850-minimum-moves-to-spread-stones-over-grid](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/2850-minimum-moves-to-spread-stones-over-grid) |
+| [3429-paint-house-iv](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/3429-paint-house-iv) |
 ## Hash Table
 |  |
 | ------- |
