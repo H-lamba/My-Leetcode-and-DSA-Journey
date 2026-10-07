@@ -18,6 +18,7 @@
 | [0022-generate-parentheses](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/0079-word-search) |
 | [0387-first-unique-character-in-a-string](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/0387-first-unique-character-in-a-string) |
+| [1544-make-the-string-great](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/1544-make-the-string-great) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/1927-sum-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -236,4 +237,8 @@
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/0240-search-a-2d-matrix-ii) |
+## Stack
+|  |
+| ------- |
+| [1544-make-the-string-great](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/1544-make-the-string-great) |
 <!---LeetCode Topics End-->
