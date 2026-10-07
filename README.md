@@ -159,6 +159,7 @@
 ## Tree
 |  |
 | ------- |
+| [0617-merge-two-binary-trees](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/0617-merge-two-binary-trees) |
 | [0623-add-one-row-to-tree](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/0623-add-one-row-to-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
@@ -167,6 +168,7 @@
 | [0079-word-search](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/0130-surrounded-regions) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0617-merge-two-binary-trees](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/0617-merge-two-binary-trees) |
 | [0623-add-one-row-to-tree](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/0623-add-one-row-to-tree) |
 | [1020-number-of-enclaves](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/1020-number-of-enclaves) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -176,11 +178,13 @@
 | [0130-surrounded-regions](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/0130-surrounded-regions) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0542-01-matrix](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/0542-01-matrix) |
+| [0617-merge-two-binary-trees](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/0617-merge-two-binary-trees) |
 | [0623-add-one-row-to-tree](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/0623-add-one-row-to-tree) |
 | [1020-number-of-enclaves](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/1020-number-of-enclaves) |
 ## Binary Tree
 |  |
 | ------- |
+| [0617-merge-two-binary-trees](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/0617-merge-two-binary-trees) |
 | [0623-add-one-row-to-tree](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/0623-add-one-row-to-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Graph Theory
