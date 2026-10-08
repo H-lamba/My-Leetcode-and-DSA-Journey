@@ -43,6 +43,7 @@
 | [0480-sliding-window-median](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/0480-sliding-window-median) |
 | [0486-predict-the-winner](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/0486-predict-the-winner) |
 | [0498-diagonal-traverse](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/0498-diagonal-traverse) |
+| [0518-coin-change-ii](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/0518-coin-change-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0542-01-matrix](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/0542-01-matrix) |
 | [0877-stone-game](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/0877-stone-game) |
@@ -65,6 +66,7 @@
 | [0022-generate-parentheses](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/0022-generate-parentheses) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0486-predict-the-winner](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/0486-predict-the-winner) |
+| [0518-coin-change-ii](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/0542-01-matrix) |
 | [0877-stone-game](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/1406-stone-game-iii) |
@@ -246,4 +248,12 @@
 |  |
 | ------- |
 | [1544-make-the-string-great](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/1544-make-the-string-great) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/0518-coin-change-ii) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/0518-coin-change-ii) |
 <!---LeetCode Topics End-->
