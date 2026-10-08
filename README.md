@@ -21,6 +21,7 @@
 | [1544-make-the-string-great](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/1544-make-the-string-great) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/1927-sum-game) |
+| [2337-move-pieces-to-obtain-a-string](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/2337-move-pieces-to-obtain-a-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Greedy
@@ -209,6 +210,7 @@
 |  |
 | ------- |
 | [0532-k-diff-pairs-in-an-array](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/0532-k-diff-pairs-in-an-array) |
+| [2337-move-pieces-to-obtain-a-string](https://github.com/H-lamba/My-Leetcode-and-DSA-Journey/tree/master/2337-move-pieces-to-obtain-a-string) |
 ## Binary Search
 |  |
 | ------- |
